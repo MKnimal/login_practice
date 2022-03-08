@@ -3,7 +3,9 @@ Una practica de un "login" haciendo uso de Django para la tarea de seguridad
 
 Chicos, para poder arrancar esto abro la carpeta en el simbolo del sistema,
 ejecuto el comando
+
 "	venv\Scripts\activate	"
+
 y ya en el entorno virtual ejecuto el comando
 "	python manage.py runserver	"
 por ultimo pongo la direccion que me marque en
