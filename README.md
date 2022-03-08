@@ -1,4 +1,4 @@
-# login_practice
+# Login_Practice
 Una practica de un "login" haciendo uso de Django para la tarea de seguridad
 
 Chicos, para poder arrancar esto abro la carpeta en el simbolo del sistema,
@@ -22,7 +22,7 @@ Esto lo hice en base al tutorial del video
 
 https://www.youtube.com/watch?v=1UvTNMH7zDo
 
-CHECKLIST DE LA RUBRICA
+###### CHECKLIST DE LA RUBRICA
 
     [OK]    Desarrollar una app para Web donde  solicite al usuario:
 
