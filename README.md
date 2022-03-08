@@ -4,19 +4,19 @@ Una practica de un "login" haciendo uso de Django para la tarea de seguridad
 Chicos, para poder arrancar esto abro la carpeta en el simbolo del sistema,
 ejecuto el comando
 
-    "   pip install virtualenv  "
+    pip install virtualenv
 
 Luego el comando
 
-    "	venv\Scripts\activate	"
+    venv\Scripts\activate
 
 y ya en el entorno virtual ejecuto el comando
 
-    "	python manage.py runserver	"
+    python manage.py runserver
 
 por ultimo pongo la direccion que me marque en
 
-"Starting development server at AQUI VA LO QUE PONES EN EL NAVEGADOR"
+    Starting development server at AQUI VA LO QUE PONES EN EL NAVEGADOR
 
 Esto lo hice en base al tutorial del video
 
