@@ -58,6 +58,7 @@ def signup(request):
 
         myuser = User.objects.create_user(username, email, pass1)
         myuser.first_name = fname
+        #esto posiblemente no funciona
         myuser.last_name_patern = lname_patern
         myuser.last_name_matern = lname_matern
         myuser.tel = tel
