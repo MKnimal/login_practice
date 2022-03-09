@@ -1,0 +1,73 @@
+h2 {
+    font-weight: bold;
+    font-size: x-large;
+}
+
+h3 {
+    font-size: large;
+}
+
+h4 {
+    font-size: medium;
+}
+
+#content {
+    margin-top: 1em;
+    padding: 1em;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#formulario {
+    justify-content: center;
+    align-items: center;
+    margin-left: 20vw;
+    margin-right: 20vw;
+    display: flex;
+    text-align: left;
+}
+
+input {
+    width: 100%;
+}
+
+button {
+    margin: 0.5vw;
+}
+
+body {
+    font-size: medium;
+    background-color: rgba(243, 243, 243, 0.514);
+    -webkit-box-shadow: inset -7px -9px 22px -23px rgba(189, 189, 189, 1);
+    -moz-box-shadow: inset -7px -9px 22px -23px rgba(189, 189, 189, 1);
+    box-shadow: inset -7px -9px 22px -23px rgba(189, 189, 189, 1);
+}
+
+#signup {
+    background-color: rgb(68, 0, 255);
+    color: white;
+    padding: 5px;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    margin-left: 30vw;
+    margin-right: 30vw;
+}
+
+#signin {
+    background-color: rgb(129, 61, 12);
+    color: white;
+    padding: 5px;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    margin-left: 30vw;
+    margin-right: 30vw;
+}
