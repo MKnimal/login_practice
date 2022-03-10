@@ -82,5 +82,5 @@ class TestViews(TestCase):
         self.assertRedirects(response,"/signin")
     def test_signout(self):
        response= self.client.get(self.signout_url)
-       self.assertRedirects(response,'/')
+       self.assertRedirects(response,'/home')
         
